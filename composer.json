@@ -17,8 +17,8 @@
     ],
     "support": {
         "email": "contact@pixelatom.org",
-        "issues": "https://github.com/Pixelatom/Cache/issues",
-        "source": "https://github.com/Pixelatom/Cache"
+        "issues": "https://github.com/Pixelatom/Url/issues",
+        "source": "https://github.com/Pixelatom/Url"
     },
     "require": {
         "php": ">=5.3.0"
